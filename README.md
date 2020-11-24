@@ -4,7 +4,8 @@ And include slightly modified C# wrapper <br/>
 ## Sample
 ![](sample.gif)
 ## Usage
-Use This ["releases"](https://github.com/always-awaken/OpenRtssText/releases) <br/>
+Install ["Rivatuner Statistics Server"](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) and Run<br/>
+Unzip this and Run ["releases"](https://github.com/always-awaken/OpenRtssText/releases) <br/>
 Be sure to run with administrator privileges <br/>
 ## Build
 Choose an x86 build environment. <br/>
